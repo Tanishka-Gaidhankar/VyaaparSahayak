@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "description": "Financial and technical support for establishing micro and small enterprises",
+    "eligibility": {
+      "msme_registered": false,
+      "min_revenue": 0,
+      "max_revenue": 5000000,
+      "business_types": ["manufacturing", "services"],
+      "locations": ["all"]
+    },
+    "benefits": "Subsidy up to 25-35% of project cost, loan assistance",
+    "source": "Ministry of MSME"
+  },
+  {
+    "id": 2,
+    "name": "Pradhan Mantri Kisan Vikas Yojana (PMKVY)",
+    "description": "Credit enhancement scheme for agriculture-related startups",
+    "eligibility": {
+      "msme_registered": false,
+      "min_revenue": 0,
+      "max_revenue": 10000000,
+      "business_types": ["agriculture", "agro-processing"],
+      "locations": ["all"]
+    },
+    "benefits": "Concessional credit at subsidized rates",
+    "source": "Ministry of Agriculture"
+  },
+  {
+    "id": 3,
+    "name": "Stand-Up India Scheme",
+    "description": "Loans for setting up new enterprises in brown field areas",
+    "eligibility": {
+      "msme_registered": false,
+      "min_revenue": 0,
+      "max_revenue": 10000000,
+      "business_types": ["manufacturing", "services", "trade"],
+      "locations": ["all"]
+    },
+    "benefits": "Collateral-free loans up to Rs. 1 Crore, credit guarantee",
+    "source": "Ministry of MSME"
+  },
+  {
+    "id": 4,
+    "name": "Mudra Yojana - Shishu Loan",
+    "description": "Microfinance scheme for entrepreneurs requiring up to Rs. 50,000",
+    "eligibility": {
+      "msme_registered": false,
+      "min_revenue": 0,
+      "max_revenue": 500000,
+      "business_types": ["all"],
+      "locations": ["all"]
+    },
+    "benefits": "Loans up to Rs. 50,000 at competitive rates",
+    "source": "Ministry of MSME"
+  },
+  {
+    "id": 5,
+    "name": "Mudra Yojana - Kishore Loan",
+    "description": "Microfinance scheme for entrepreneurs requiring Rs. 50,000 to Rs. 5 Lakh",
+    "eligibility": {
+      "msme_registered": false,
+      "min_revenue": 500000,
+      "max_revenue": 5000000,
+      "business_types": ["all"],
+      "locations": ["all"]
+    },
+    "benefits": "Loans up to Rs. 5 Lakh, collateral-free",
+    "source": "Ministry of MSME"
+  },
+  {
+    "id": 6,
+    "name": "Mudra Yojana - Tarun Loan",
+    "description": "Microfinance scheme for established entrepreneurs requiring Rs. 5 Lakh to Rs. 1 Crore",
+    "eligibility": {
+      "msme_registered": true,
+      "min_revenue": 5000000,
+      "max_revenue": 100000000,
+      "business_types": ["all"],
+      "locations": ["all"]
+    },
+    "benefits": "Loans up to Rs. 1 Crore, working capital support",
+    "source": "Ministry of MSME"
+  },
+  {
+    "id": 7,
+    "name": "Credit Guarantee Scheme for Micro and Small Enterprises (CGTMSE)",
+    "description": "Guarantee coverage for collateral-free loans to MSMEs",
+    "eligibility": {
+      "msme_registered": true,
+      "min_revenue": 0,
+      "max_revenue": 50000000,
+      "business_types": ["manufacturing", "services"],
+      "locations": ["all"]
+    },
+    "benefits": "Credit guarantee up to 80% of loan amount",
+    "source": "Ministry of MSME"
+  },
+  {
+    "id": 8,
+    "name": "Technology Business Incubator (TBI) Scheme",
+    "description": "Support for tech startups and innovation-based enterprises",
+    "eligibility": {
+      "msme_registered": false,
+      "min_revenue": 0,
+      "max_revenue": 20000000,
+      "business_types": ["technology", "software"],
+      "locations": ["all"]
+    },
+    "benefits": "Incubation support, mentorship, funding access",
+    "source": "Ministry of Commerce"
+  },
+  {
+    "id": 9,
+    "name": "Export Credit Enhancement Scheme (ECES)",
+    "description": "Support for export-oriented manufacturing units",
+    "eligibility": {
+      "msme_registered": true,
+      "min_revenue": 10000000,
+      "max_revenue": 500000000,
+      "business_types": ["manufacturing", "agro-processing"],
+      "locations": ["all"]
+    },
+    "benefits": "Concessional export credit at subsidized rates",
+    "source": "Ministry of Commerce"
+  },
+  {
+    "id": 10,
+    "name": "DC-MSME Scheme (Cluster Development)",
+    "description": "Development of industrial clusters and MSMEs",
+    "eligibility": {
+      "msme_registered": true,
+      "min_revenue": 0,
+      "max_revenue": 50000000,
+      "business_types": ["manufacturing"],
+      "locations": ["all"]
+    },
+    "benefits": "Infrastructure development, common facility, technology upgradation",
+    "source": "Ministry of MSME"
+  }
+]
